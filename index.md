@@ -1,7 +1,7 @@
 ---
 title: Investigación en didáctica y práctica docente
 subtitle: ¿Quién dijo hueco?
-author: <a href="http://tierradenumeros.com">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/val.jpg" align="center" style="padding-right:0px;" height="70px" >  <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="70px" >  <br> 27 de enero de 2020 <br> I Jornadas de Innovación docente de la Universidad de La Rioja <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> 
+author: <a href="http://tierradenumeros.com">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/val.jpg" align="center" style="padding-right:0px;" height="70px" >  <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="70px" >  <br> 27 de enero de 2020 <br> I Jornadas de Innovación Docente de la Universidad de La Rioja <br> <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> 
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
 rollingLinks: true
@@ -338,14 +338,158 @@ Es común encontrar resistencia cuando el enfoque que plantea el docente es a tr
 
 # Contenidos concretos {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
 
-## Probabilidad
+## Probabilidad {data-background-image="assets/images/prob1.jpg" data-background-opacity="0.2"}
 
-## Estadística
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+![](assets/images/azaryprobabilidad.jpg){width=80%}  
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/significados.jpg){width=100%}  
+
+Batanero (2005).
+
+:::
+:::::::::::::
+
+
+## Probabilidad {data-background-image="assets/images/prob1.jpg" data-background-opacity="0.2"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+![](assets/images/prob1.jpg){width=100%}  
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/sonobe.png){width=100%}  
+
+:::
+:::::::::::::
+
+
+## Probabilidad {data-background-image="assets/images/prob1.jpg" data-background-opacity="0.2"}
+
+![](assets/images/prob2.jpg){width=100%}  
+
+## Probabilidad {data-background-image="assets/images/prob1.jpg" data-background-opacity="0.2"}
+
+![](assets/images/prob3.jpg){width=100%}  
+
+[Enlace al hilo completo](https://twitter.com/pbeltranp/status/1185842437215916032)
+
+## Estadística {data-background-image="assets/images/basket.jpg" data-background-opacity="0.14"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+Partido de basket. Queda un minuto y el entrenador tiene que decidir a qué jugadora sacar. ¿A quién elegirá?
+
+- Si va perdiendo de 8 puntos.
+- Si va ganando de 2 puntos.
+
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/encesta1.gif){width=100%}  
+
+![](assets/images/praxis.png){width=80%}  
+
+:::
+:::::::::::::
+ 
+## Estadística {data-background-image="assets/images/basket.jpg" data-background-opacity="0.14"}
+
+![](assets/images/tabladatos.jpg){width=80%}  
+ 
+[Enlace a la secuencia](https://tierradenumeros.com/post/hilo-medidas-de-dispersion/)
+
+
+## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.2"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+![](assets/images/triangulos.jpg){width=100%}
+
+[Enlace al vídeo](https://www.youtube.com/watch?v=E2UeSjGM-Aw)
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/contar.jpg){width=100%}
+
+:::
+:::::::::::::
+
+## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.2"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="35%"}
+![](assets/images/numerosyalgoritmos.jpg){width=100%}
+
+:::
+
+::: {.column width="65%"}
+
+![](assets/images/contar2.jpg){width=100%}
+
+:::
+:::::::::::::
+
+## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.2"}
+
+
+![](assets/images/contar3.jpg){width=90%}
+
+## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.2"}
+
+![](assets/images/contar4.png){width=80%}
 
 
 ## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
 
-![](assets/images/medida2.jpg){width=90%}
+:::::::::::::: {.columns}
+
+::: {.column width="40%"}
+
+![](assets/images/medidatiras.jpg){width=100%}
+
+:::
+
+::: {.column width="60%"}
+
+> Los diferentes significados son un conocimiento especializado.
+
+- Parte-todo.
+- Medida.
+- Cociente.
+- Razón.
+- Probabilidad.
+
+
+:::
+:::::::::::::
+
+
+## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
+
+![](assets/images/medida2.jpg){width=80%}
+
+Fichas de [https://twitter.com/SergioMJGR](@SergioMJGR) y [https://twitter.com/auroradp64](@auroradp64), basadas en trabajos de Escolano, Gairín y otros.
+
 
 ## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
 
@@ -357,10 +501,27 @@ Es común encontrar resistencia cuando el enfoque que plantea el docente es a tr
 
 ## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
 
-![](assets/images/medida4.jpg){width=90%}
+![](assets/images/medida4.jpg){width=70%}
 
 
-## Álgebra y negativos
+## Álgebra y negativos {data-background-image="assets/images/negativos2.jpg" data-background-opacity="0.16"}
+
+La propuesta de Eva Cid (2017) se apoya en un progresivo quehacer algebraico, de forma similar al recorrido histórico que condujo al reconocimiento de los negativos como números. 
+
+:bulb::bulb::bulb:
+
+> Se trata de un importante cambio conceptual.
+
+[Obstáculos](http://www.quadernsdigitals.net/datos/hemeroteca/r_40/nr_460/a_6233/6233.pdf)
+
+## Álgebra y negativos {data-background-image="assets/images/negativos2.jpg" data-background-opacity="0.16"}
+
+![](assets/images/negativos1.jpg){width=80%}
+
+## Álgebra y negativos {data-background-image="assets/images/negativos2.jpg" data-background-opacity="0.16"}
+
+![](assets/images/negativos2.jpg){width=80%}
+
 
 
 ## Funciones {data-background-image="assets/images/funciones1.jpg" data-background-opacity="0.2"}
@@ -422,8 +583,6 @@ Abdel y Conrad están en los puntos del parque que tienes marcados en la foto. T
 
 ## Geometría: definiciones
 
-
-
 :::::::::::::: {.columns}
 
 ::: {.column width="45%"}
@@ -451,6 +610,16 @@ Fuente: prácticas de Didáctica de la Geometría. Área de Didáctica de la Mat
 
 
 # Terminando {data-background-image="assets/art/conclusiones.jpg" data-background-opacity="0.2"}
+
+## ¿Por qué la enseñanza a través de la RP es importante para el aprendizaje de los alumnos? {data-background-image="assets/art/conclusiones.jpg" data-background-opacity="0.2"}
+
+![](assets/images/citarp.png){width=85%}
+
+## {data-background-image="assets/art/conclusiones.jpg" data-background-opacity="0.2"}
+
+> La investigación sugiere claramente que la RP no debe enseñarse como un tema separado en el currículo de matemáticas. De hecho, nos dice que enseñar a los estudiantes a usar estrategias generales de RP tiene poco efecto en su éxito como solucionadores de problemas.”
+
+Cai y Lester (2010).
 
 ## Cultura científica del profesor de matemáticas y profesionalización {data-background-image="assets/art/conclusiones.jpg" data-background-opacity="0.2"}
 
@@ -493,17 +662,23 @@ Batanero, C. (2005). Significados de la probabilidad en la educación secundaria
 
 Beltrán-Pellicer, P., & Cárdenas, J. A. (2019). Polígrafos y canicas en Desmos como ejemplos de propuestas éticas de enseñanza y aprendizaje en matemáticas. _UNO, 84_, 40-44.
 
+##
+
 Beltrán-Pellicer, P., Giacomone, B., & Burgos, M. (2018). Online educational videos according to specific didactics: the case of mathematics / Los vídeos educativos en línea desde las didácticas específicas: el caso de las matemáticas. _Cultura y Educación, 30_(4), 633-662. [Enlace](https://www.tandfonline.com/eprint/r8gbHE2dM75Z3t3wdE7U/full)
 
 Beltrán-Pellicer, P., Godino, J. D. (2019). An onto-semiotic approach to the analysis of the affective domain in mathematics education. _Cambridge Journal of Education_, 1-20. [Enlace](https://www.tandfonline.com/eprint/KimkMTSJt9uGibVg9Gej/full?target=10.1080/0305764X.2019.1623175) 
 
 Beltrán-Pellicer, P., Ricart, M., & Estrada, A. (2019). Una experiencia sobre el diseño de juegos como recurso para desarrollar la competencia didáctico-matemática en probabilidad con docentes de infantil y primaria. En J. M. Contreras, M. M. Gea, M. M. López-Martín, & E. Molina-Portillo (Eds.) _Actas del Tercer Congreso Internacional Virtual de Educación Estadística_ (pp. 1-10). [Enlace](https://www.ugr.es/~fqm126/civeest.html)
 
+##
+
 Brown, L., & Coles, A. (2013).On doing the same problem – first lessons and relentless consistency. En C. Margolinas (Ed.), _Task design in mathematics education (Proceedings of the International Commission on Mathematical Instruction Study 22_, pp. 617–626), Oxford, UK. [Enlace](http://hal.archives-ouvertes.fr/hal-00834054)
 
 Cai, J., & Lester, F. (2010). Why is Teaching with Problem Solving Important to Student Learning? _NCTM, 13_(12), 1–6. [Enlace](https://www.nctm.org/uploadedFiles/Research_and_Advocacy/research_brief_and_clips/Research_brief_14_-_Problem_Solving.pdf)
 
 Cid, E. (2015). _Obstáculos epistemológicos en la enseñanza de los números negativos_. Tesid doctoral. Universidad de Zaragoza. [Enlace](http://www.atd-tad.org/documentos/obstaculos-epistemologicos-en-la-ensenanza-de-los-numeros-negativos-tesis-doctoral/)
+
+##
 
 English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L. D. English, & D. Kirshner (Eds.), _Handbook of International Research in Mathematics Education_, pp. 313-335. Routledge.
 
@@ -513,17 +688,23 @@ Escolano, R., & Gairín, J. M. (2005). Modelos de medida para la enseñanza del 
 
 Gairín, J. M., & Sancho, J. (2002). _Números y algoritmos_. Madrid: Síntesis.
 
+##
+
 Gascón, J., & Nicolás, P. (2017). Can Didactics Say How to Teach? The Beginning of a Dialogue between the Anthropological Theory of the Didactic and Other Approaches. _For the Learning of Mathematics, 37_(3), 9–13.
 
 Godino, J. D. (2013). Indicadores de idoneidad didáctica de procesos de enseñanza y aprendizaje de las matemáticas. _Cuadernos de Investigación y Formación En Educación Matemática, 8_(11), 111–132. [Enlace]( https://goo.gl/tXDyVJ)
 
 Godino, J. D., Batanero, C., & Cañizares, M. J. (1987). _Azar y probabilidad. Fundamentos didácticos y propuestas curriculares_. Madrid: Síntesis.
 
+##
+
 Godino, J. D., Batanero, C., Font, V., & Giacomone, B. (2016). Articulando conocimientos y competencias del profesor de matemáticas: el modelo CCDM. En C. Fernández, J. L. González, F. J. Ruiz, T. Fernández, & A. Berciano (Eds.), _Investigación en Educación Matemática XX_ (pp. 288–297). Málaga: SEIEM. [Enlace](http://funes.uniandes.edu.co/8859/)
 
 Gómez-Chacón, I. M. (2000). _Matemática emocional: Los afectos en el aprendizaje matemático._ Madrid: Narcea.
 
 Martínez-Juste, S., Muñoz-Escolano, J. M., & Oller-Marcén, A. M. (2019). Una experiencia de investigación-acción para la enseñanza de la proporcionalidad compuesta._ Enseñanza de las ciencias, 37_(2), 85-106. [Enlace](https://www.raco.cat/index.php/Ensenanza/article/download/356155/448100)
+
+##
 
 Martínez-Juste, S., Muñoz-Escolano, J. M., Oller-Marcén, A. M. y Pecharromán, C. (2014). Una propuesta innovadora para la enseñanza de la proporcionalidad aritmética en el primer ciclo de ESO. En Consejería de Educación de la Junta de Castilla y León (Ed.), Las nuevas metodologías en la enseñanza y el aprendizaje de las Matemáticas (pp. 459-470). Segovia: Academia de Artillería de Segovia. [Enlace](https://riemann.unizar.es/grupodidactica/data/uploads/martinez-munoz-oller-pecharroman-2015-proporcionalidad.pdf)
 
@@ -546,72 +727,6 @@ Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a
 Los gifs se han obtenido de [Giphy](https://giphy.com/).
 
 La fuente de las imágenes es propia, salvo las que se ha citado la fuente en su diapositiva y las de dominio público obtenidas en [Unsplash](https://unsplash.com). 
-
-
-
-
-
-# Sección phantom
-
-## Cultura científica del profesor de matemáticas y profesionalización
-
-- ¿Cuántos profesores acuden a congresos?
-- ¿Cuántos saben qué es la FESPM?
-- ¿Cuántos saben qué es la SEIEM?
-
-
-## ¿Por qué la enseñanza a través de la RP es importante para el aprendizaje de los alumnos?
-
-Una #DidMatCita de Cai y Lester (2010):  Como es un poco larga para meter la traducción, aprovecho para desgranarla en un pequeño hilo.
-
-![](assets/images/citarp.png){width=100%}
-
-“La investigación sugiere claramente que la RP no debe enseñarse como un tema separado en el currículo de matemáticas. De hecho, nos dice que enseñar a los estudiantes a usar estrategias generales de RP tiene poco efecto en su éxito como solucionadores de problemas.”
-
-O sea, que nuestro bloque I no debe consistir en “parar las clases” para ponernos a resolver problemas “tipo olimpíada” que nos permitan trabajar las heurísticas de RP (Polya). El bloque I, tomado en serio y desde la investigación, debería condicionar todo lo demás.
-
-Siempre podremos dedicar alguna sesión a ese tipo de problemas, claro, pero no es lo fundamental. Lo suyo es ver los problemas en sentido amplio, como tareas que permiten que el contenido emerja.
-
-Cai y Lester lo dicen muy claro: “Por lo tanto, la resolución de problemas debe enseñarse como una parte integral del aprendizaje de las matemáticas, y requiere un compromiso significativo en el currículo en cada nivel de grado y en cada tema matemático”
-
-“Además de comprometerse con la resolución de problemas en el currículo de matemáticas, los docentes deben ser estratégicos en la selección de tareas apropiadas y en la organización del discurso en el aula para maximizar las oportunidades de aprendizaje.”
-
-Esto último es crucial. Más que buscar actividades que disfracen la actividad matemática, de “poner la zanahoria al burro”, se trata de seleccionar o diseñar tareas ricas. No es fácil, pero se puede. Y los alumnos responden.
-
-“En particular, los maestros deben involucrar a los estudiantes en una variedad de actividades de RP: (a) encontrar múltiples estrategias de solución para un problema, (b) participar en la exploración matemática, (c) dar razones para sus soluciones y (d) hacer generalizaciones.”
-
-“Centrarse en la resolución de problemas en el aula no solo afecta el desarrollo de las habilidades de pensamiento de orden superior de los estudiantes, sino que también refuerza las actitudes positivas.”
-
-Ese fomento de las actitudes positivas es sumamente importante. Que luego nos quejamos de que llegan a bachillerato y no saben resolver problemas o que se cruzan de brazos.
-
-“Finalmente, no hay evidencia de que debamos preocuparnos de que los estudiantes sacrifiquen sus habilidades básicas si los profesores se centran en desarrollar las habilidades matemáticas para resolver problemas.”
-
-Esto último se relaciona mucho con la pregunta: ¿qué queremos que aprendan nuestros alumnos? ¿Queremos que hagan castillos de fracciones lo más rápido posible? ¿O preferimos dedicar más tiempo a plantear problemas? Y ojo, que los contenidos no se descuidan.
-
-Al contrario, en una enseñanza a través de la RP los contenidos se van trabajando con sentido y atendiendo a la diversidad (por ambos lados).
-
-La traducción, libre, la he ido poniendo entrecomillada. Jinfa Cai y Frank Lester son autores de referencia en investigación en educación matemática. Una de sus líneas de trabajo es, precisamente, la RP
-
-
-## A través de la resolución de problemas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
-
->¿El objetivo general de usar la RP en el aula de matemáticas debería ser enseñar la RP per se, o enseñar contenido matemático, usando la RP como vehículo? 
-
-:::incremental
-- Autores como Anderson (2014) atribuyen el bajo desempeño en RP de los estudiantes al tratamiento _tradicional_ de la RP en el aula, independiente y aislado del desarrollo de ideas, procesos y conceptos matemáticos básicos. 
-- La RP a menudo toma la forma de problemas de aplicación al final de cada lección, presumiblemente para promover la capacidad de **aplicar** lo aprendido. Así rara vez se cumple el propósito de enseñar a resolver problemas o desarrollar o profundizar el conocimiento de ese contenido (Anderson, 2014). 
-:::
-
-## A través de la resolución de problemas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
-
-:::incremental
-- Pero la atención (limitada) de la investigación sobre cómo se puede lograr el desarrollo de los conceptos a través de la RP indica que a la RP no se le ha dado un papel central en el plan de estudios, sino que se ha llevado a la periferia (Rigelman, 2013). 
-- Se necesitan más estudios que exploren si ambas metas pueden lograrse a la vez, examinando el impacto del desarrollo conceptual impulsado por problemas en el desarrollo de competencias para la resolución de problemas (Lester y Charles, 2003; Schoen y Charles, 2003). 
-:::
-
-## {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
-
->Si bien los estudios más recientes favorecen la RP como un medio para desarrollar la comprensión del contenido matemático en lugar de un fin en sí mismo, el debate está lejos de resolverse.
 
 
 
