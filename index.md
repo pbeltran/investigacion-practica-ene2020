@@ -441,7 +441,7 @@ Partido de basket. Queda un minuto y el entrenador tiene que decidir a qué juga
 
 ## Estadística: vía intuitiva {data-background-image="assets/images/basket.jpg" data-background-opacity="0.14"}
 
-![](assets/images/diagrama4.jpg){width=50%}  
+![](assets/images/diagrama4.jpg){width=46%}  
 
 ## Estadística: vía intuitiva {data-background-image="assets/images/basket.jpg" data-background-opacity="0.14"}
 
