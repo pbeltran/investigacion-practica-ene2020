@@ -336,6 +336,13 @@ Es común encontrar resistencia cuando el enfoque que plantea el docente es a tr
 :::
 :::::::::::::
 
+## WODB {data-background-image="assets/images/wodb.jpg" data-background-opacity="0.2"}
+
+![](assets/images/wodb-numbers.jpg){width=70%}
+
+[wodb.ca](http://wodb.ca/)
+
+
 # Contenidos concretos {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
 
 ## Probabilidad {data-background-image="assets/images/prob1.jpg" data-background-opacity="0.2"}
@@ -710,7 +717,9 @@ Martínez-Juste, S., Muñoz-Escolano, J. M., Oller-Marcén, A. M. y Pecharromán
 
 Oller-Marcén, A. (2012). _Proporcionalidad aritmética: una propuesta didáctica para alumnos de secundaria_. Tesis doctoral. Universidad de Valladolid. [Enlace](http://uvadoc.uva.es/handle/10324/1118)
 
+##
 
+Ricart, M., Beltrán-Pellicer, P. y Estrada, A. (2019). Actividad scaffolding en geometría para desarrollar habilidades de argumentación y clasificación en futuros maestros de Educación Infantil. En J. M. Marbán, M. Arce, A. Maroto, J. M. Muñoz-Escolano y Á. Alsina (Eds.), _Investigación en Educación Matemática XXIII_ (pp. 503-512). Valladolid: SEIEM.
 
 ## Créditos {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
