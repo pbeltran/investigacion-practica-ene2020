@@ -534,6 +534,9 @@ Fichas de [SergioMJGR](https://twitter.com/SergioMJGR) y [auroradp64](https://tw
 
 ![](assets/images/medida4.jpg){width=70%}
 
+## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
+
+![](assets/images/papiros1.jpg){width=52%}
 
 ## Álgebra y negativos {data-background-image="assets/images/negativos2.jpg" data-background-opacity="0.16"}
 
