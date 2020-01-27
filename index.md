@@ -342,6 +342,14 @@ Es común encontrar resistencia cuando el enfoque que plantea el docente es a tr
 
 [wodb.ca](http://wodb.ca/)
 
+## WODB en el máster {data-background-image="assets/images/wodb.jpg" data-background-opacity="0.2"}
+
+
+
+![](assets/images/wodbmaster.jpg){width=60%}
+
+
+
 
 # Contenidos concretos {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
 
@@ -418,10 +426,26 @@ Partido de basket. Queda un minuto y el entrenador tiene que decidir a qué juga
  
 ## Estadística {data-background-image="assets/images/basket.jpg" data-background-opacity="0.14"}
 
-![](assets/images/tabladatos.jpg){width=80%}  
+![](assets/images/tabladatos.jpg){width=100%}  
  
 [Enlace a la secuencia](https://tierradenumeros.com/post/hilo-medidas-de-dispersion/)
 
+
+## Estadística: vía intuitiva {data-background-image="assets/images/basket.jpg" data-background-opacity="0.14"}
+
+![](assets/images/diagrama2.jpg){width=60%}  
+
+## Estadística: vía intuitiva {data-background-image="assets/images/basket.jpg" data-background-opacity="0.14"}
+
+![](assets/images/diagrama1.jpg){width=100%}  
+
+## Estadística: vía intuitiva {data-background-image="assets/images/basket.jpg" data-background-opacity="0.14"}
+
+![](assets/images/diagrama4.jpg){width=50%}  
+
+## Estadística: vía intuitiva {data-background-image="assets/images/basket.jpg" data-background-opacity="0.14"}
+
+![](assets/images/devtipica.jpg){width=100%}  
 
 ## Números {data-background-image="assets/images/contar2.jpg" data-background-opacity="0.2"}
 
