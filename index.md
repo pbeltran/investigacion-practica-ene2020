@@ -569,6 +569,7 @@ Una función puede presentarse mediante:
 
 > No hacen falta fórmulas ni expresiones algebraicas para introducir las características globales (tendencia, periodicidad, etc.), y locales de las funciones (extremos, cortes, etc.).
 
+
 ## El lenguaje de funciones y gráficas {data-background-image="assets/images/funciones1.jpg" data-background-opacity="0.2"}
 
 :::::::::::::: {.columns}
@@ -590,8 +591,18 @@ Estos materiales sirven para ayudar a los alumnos a desarrollar fluidez en la ut
 
 ## Funciones {data-background-image="assets/images/funciones1.jpg" data-background-opacity="0.2"}
 
+![](assets/images/rusa.jpg){width=65%}  
+
+
+## Funciones {data-background-image="assets/images/funciones1.jpg" data-background-opacity="0.2"}
+
 ![](assets/images/funciones1.jpg){width=80%}  
 
+
+
+## Funciones: preguntas de examen {data-background-image="assets/images/funciones1.jpg" data-background-opacity="0.2"}
+
+![](assets/images/vallas.jpg){width=80%}  
 
 ## Funciones: los exámenes dan mucho juego {data-background-image="assets/images/funciones1.jpg" data-background-opacity="0.2"}
 
