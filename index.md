@@ -495,7 +495,7 @@ Partido de basket. Queda un minuto y el entrenador tiene que decidir a qué juga
 
 ![](assets/images/medida2.jpg){width=80%}
 
-Fichas de [@SergioMJGR](https://twitter.com/SergioMJGR) y [@auroradp64](https://twitter.com/auroradp64), basadas en trabajos de Escolano, Gairín y otros.
+Fichas de [SergioMJGR](https://twitter.com/SergioMJGR) y [auroradp64](https://twitter.com/auroradp64), basadas en trabajos de Escolano, Gairín y otros.
 
 
 ## Números racionales {data-background-image="assets/images/medida2.jpg" data-background-opacity="0.2"}
