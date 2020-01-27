@@ -338,7 +338,7 @@ Es común encontrar resistencia cuando el enfoque que plantea el docente es a tr
 
 ## WODB {data-background-image="assets/images/wodb.jpg" data-background-opacity="0.2"}
 
-![](assets/images/wodb-numbers.jpg){width=60%}
+![](assets/images/wodb-numbers.jpg){width=55%}
 
 [wodb.ca](http://wodb.ca/)
 
